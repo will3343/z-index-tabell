@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="sv" dir="ltr">
+    
+<head>
+    <meta charset="utf-8">
+    <title>Tabell</title>
+
+    <link rel="stylesheet" href="Tabell.css">
+
+</head>    
+
+  <body>
+
+    <h2>Mina kurser</h2>
+
+    <table>
+       <tr>
+          <th>Kurs</th>
+          <th>Beskrivning</th>
+          <th>Kurs-kod</th>
+       </tr>
+
+       <tr>
+           <td>Programmering-1</td>
+           <td>Python </td>
+           <td>PRRG1 </td>
+       </tr>
+
+       <tr>
+           <td>Webbutveckling-1</td>
+           <td>Html, Css & JS </td>
+           <td>WEBE1</td>
+       </tr>
+
+       <tr>
+           <td>Engelska-7</td>
+           <td>Research & thesis</td>
+           <td>ENG7</td>
+       </tr>
+
+       <tr>
+           <td>Svenska-1</td>
+           <td>Språk variation</td>
+           <td>SVA1</td>
+       </tr>
+
+
+    </table>
+    
+  </body> 
+</html>

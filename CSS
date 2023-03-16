@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+  }
+  
+  h1{
+      background-color: antiquewhite;
+      padding: 20px;
+      border-style: solid;
+      border-width: 2px;
+      border-color: black;
+  }
+
+  h2{
+    background-color: antiquewhite;
+    padding: 20px;
+    border: 2px;
+  }
+
+  table, tr, th , td{
+    background-color: azure;
+    padding: 20px;
+    border-top: 2px dotted red ;
+    border-left: 2px dotted yellow;
+    border-right: 2px dotted green;
+    border-bottom: 2px dotted black;
+  }
